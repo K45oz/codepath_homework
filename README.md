@@ -19,7 +19,7 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 
 Vulnerability #1: SQL Injection
 
-Description:
+Description:Specific URL for person blue/public/salesperson.php?id=%27%20OR%20SLEEP(5)=0--%27
 
 <img src="SQL Injection.gif">
 
@@ -28,7 +28,7 @@ Description:
 
 Vulnerability #1: Username Enumeration
 
-Description:
+Description:The CSS can tell wheter a person exist or not
 
 <img src="Username Enumeration.gif">
 
@@ -37,7 +37,7 @@ Description:
 
 Vulnerability #1:Insecure Direct Object Reference
 
-Description:
+Description:A number can swap to another salesperson
 
 <img src="Insecure Direct Object Reference.gif">
 
